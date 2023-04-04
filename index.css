@@ -1,0 +1,23 @@
+form {
+  border: 1px solid #ccc;
+  padding: 20px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+textarea {
+  padding: 10px;
+  margin-bottom: 20px;
+  width: 100%;
+  box-sizing: border-box;
+}
+input[type="submit"] {
+  background-color: #009688;
+  color: #fff;
+  border: none;
+  padding: 20px;
+}
